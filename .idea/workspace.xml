@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d398b51c-0fbe-4982-a7a7-a9491d293344" name="Default" comment="" />
+    <list default="true" id="d398b51c-0fbe-4982-a7a7-a9491d293344" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/indexhtml4.html" afterPath="$PROJECT_DIR$/indexhtml4.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,11 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="95" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="175" column="42" lean-forward="false" selection-start-line="175" selection-start-column="42" selection-end-line="175" selection-end-column="42" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#1545#1551#0" expanded="true" />
@@ -31,18 +34,17 @@
                 <element signature="n#article#1;n#section#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#5005#5012#0" expanded="true" />
                 <element signature="e#6562#6569#0" expanded="true" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#7891#7897#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indexhtml4.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="indexhtml4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/indexhtml4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2641">
-              <caret line="139" column="29" lean-forward="true" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
+            <state relative-caret-position="282">
+              <caret line="175" column="13" lean-forward="true" selection-start-line="175" selection-start-column="13" selection-end-line="175" selection-end-column="13" />
               <folding>
                 <element signature="e#1684#1690#0" expanded="true" />
                 <element signature="e#3860#3867#0" expanded="true" />
@@ -71,11 +73,12 @@
       <find>.about</find>
       <find>&lt;footer</find>
       <find>&lt;section</find>
+      <find>&lt;/figcaption</find>
     </findStrings>
     <replaceStrings>
-      <replace>&lt;/div</replace>
       <replace>&lt;div</replace>
       <replace>March</replace>
+      <replace>&lt;/div</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -87,8 +90,8 @@
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/indexhtml4.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -250,12 +253,12 @@
       <workItem from="1494743495547" duration="45000" />
       <workItem from="1494743601770" duration="3869000" />
       <workItem from="1494784926576" duration="5000" />
-      <workItem from="1494784968123" duration="619000" />
+      <workItem from="1494784968123" duration="1319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5832000" />
+    <option name="totallyTimeSpent" value="6532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="731" extended-state="6" />
@@ -302,7 +305,6 @@
             <element signature="n#article#1;n#section#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#5005#5012#0" expanded="true" />
             <element signature="e#6562#6569#0" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#7891#7897#0" expanded="true" />
           </folding>
         </state>
@@ -342,7 +344,6 @@
             <element signature="n#article#1;n#section#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#5005#5012#0" expanded="true" />
             <element signature="e#6562#6569#0" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#7891#7897#0" expanded="true" />
           </folding>
         </state>
@@ -382,7 +383,6 @@
             <element signature="n#article#1;n#section#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#5005#5012#0" expanded="true" />
             <element signature="e#6562#6569#0" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#7891#7897#0" expanded="true" />
           </folding>
         </state>
@@ -408,7 +408,6 @@
             <element signature="n#article#1;n#section#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#5005#5012#0" expanded="true" />
             <element signature="e#6562#6569#0" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#7891#7897#0" expanded="true" />
           </folding>
         </state>
@@ -438,10 +437,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/indexhtml4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="175" column="13" lean-forward="true" selection-start-line="175" selection-start-column="13" selection-end-line="175" selection-end-column="13" />
+          <folding>
+            <element signature="e#1684#1690#0" expanded="true" />
+            <element signature="e#3860#3867#0" expanded="true" />
+            <element signature="e#5120#5127#0" expanded="true" />
+            <element signature="e#6637#6644#0" expanded="true" />
+            <element signature="e#7940#7946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="95" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+        <state relative-caret-position="374">
+          <caret line="175" column="42" lean-forward="false" selection-start-line="175" selection-start-column="42" selection-end-line="175" selection-end-column="42" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#1545#1551#0" expanded="true" />
@@ -450,22 +463,7 @@
             <element signature="n#article#1;n#section#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#5005#5012#0" expanded="true" />
             <element signature="e#6562#6569#0" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#7891#7897#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/indexhtml4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2641">
-          <caret line="139" column="29" lean-forward="true" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
-          <folding>
-            <element signature="e#1684#1690#0" expanded="true" />
-            <element signature="e#3860#3867#0" expanded="true" />
-            <element signature="e#5120#5127#0" expanded="true" />
-            <element signature="e#6637#6644#0" expanded="true" />
-            <element signature="e#7940#7946#0" expanded="true" />
           </folding>
         </state>
       </provider>
